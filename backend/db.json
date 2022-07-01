@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "sousage",
+      "comp": "diyor sosiskalari",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "yogurt",
+      "comp": "bon",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "cocacola",
+      "comp": "cola",
+      "price": 10000
+    },
+    {
+      "id": 4,
+      "name": "pepsi",
+      "comp": "pepsico",
+      "price": 10000
+    },
+    {
+      "id": 5,
+      "name": "bread",
+      "comp": "uzb",
+      "price": 5000
+    },
+    {
+      "id": 6,
+      "name": "aybon gold",
+      "comp": "uzb",
+      "price": 3000
+    },
+    {
+      "id": 7,
+      "name": "Alenka",
+      "comp": "Rus",
+      "price": 7000
+    }
+  ],
+  "users": []
+}
